@@ -1,0 +1,4 @@
+Memory Management is the most important function of the operating system because it handles or manages primary memory and moves processess
+back and forth between main memories and disk during execution. It keeps track of each memory location, regardless it is allocated to
+some process or it is free. It checks how much memory is to be allocated to processess. It also decides which process will get memory
+at what time.
