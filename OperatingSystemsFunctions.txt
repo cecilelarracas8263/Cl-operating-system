@@ -5,3 +5,7 @@ at what time.
 
 Error detecting aids - operating system constantly monitors the system to detect errors and avoid the malfunctioning of computer system.
 Coordination between other softwares and users. 
+
+Device Management - is an OS that manages device communication through their respective drivers. Performs the following activities for device management, and keep tracks of all devices connected to the system. Designates program responsible for all device known as the 
+input/output controller, and decides which process gets access to a certain device and for how long. It allocates devices in an effective 
+and efficient way, and deallocates devices when they are no longer required.
