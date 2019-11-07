@@ -2,3 +2,6 @@ Memory Management is the most important function of the operating system because
 back and forth between main memories and disk during execution. It keeps track of each memory location, regardless it is allocated to
 some process or it is free. It checks how much memory is to be allocated to processess. It also decides which process will get memory
 at what time.
+
+Error detecting aids - operating system constantly monitors the system to detect errors and avoid the malfunctioning of computer system.
+Coordination between other softwares and users. 
